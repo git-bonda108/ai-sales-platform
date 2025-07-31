@@ -1,0 +1,36 @@
+  ▲ Next.js 14.2.28
+  - Local:        http://localhost:3000
+
+ ✓ Starting...
+ ✓ Ready in 7s
+ ○ Compiling / ...
+ ✓ Compiled / in 20.2s (3813 modules)
+ GET / 200 in 21139ms
+ ✓ Compiled in 913ms (1903 modules)
+ ○ Compiling /_not-found ...
+ ✓ Compiled /_not-found in 4.2s (3793 modules)
+ GET /dashboard 404 in 4285ms
+ ○ Compiling /chat ...
+ ✓ Compiled /chat in 864ms (3809 modules)
+ GET /chat 200 in 954ms
+ ○ Compiling /transcripts ...
+ ✓ Compiled /transcripts in 627ms (3819 modules)
+ GET /transcripts 200 in 705ms
+ ○ Compiling /crm ...
+ ✓ Compiled /crm in 1314ms (3829 modules)
+ GET /crm 200 in 1410ms
+ HEAD / 200 in 201ms
+ GET / 200 in 67ms
+ ○ Compiling /training ...
+ ✓ Compiled /training in 1121ms (3834 modules)
+ ○ Compiling /analytics ...
+ ✓ Compiled /analytics in 2.1s (3842 modules)
+ GET / 200 in 346ms
+ GET / 200 in 46ms
+ HEAD / 200 in 49ms
+ HEAD / 200 in 32ms
+ GET / 200 in 47ms
+ HEAD / 200 in 43ms
+ HEAD / 200 in 33ms
+ HEAD / 200 in 32ms
+ HEAD / 200 in 34ms
