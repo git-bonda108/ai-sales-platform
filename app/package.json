@@ -1,6 +1,14 @@
 {
-  "name": "app",
+  "name": "ai-sales-platform",
+  "version": "0.1.0",
+  "private": true,
   "packageManager": "yarn@4.9.2",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
   "dependencies": {
     "@radix-ui/react-avatar": "1.1.0",
     "@radix-ui/react-progress": "1.1.0",

@@ -1,7 +1,10 @@
 {
   "/_not-found/page": "app/_not-found/page.js",
-  "/page": "app/page.js",
-  "/transcripts/page": "app/transcripts/page.js",
+  "/analytics/page": "app/analytics/page.js",
+  "/chat/page": "app/chat/page.js",
   "/crm/page": "app/crm/page.js",
-  "/chat/page": "app/chat/page.js"
+  "/page": "app/page.js",
+  "/api/chat/route": "app/api/chat/route.js",
+  "/training/page": "app/training/page.js",
+  "/transcripts/page": "app/transcripts/page.js"
 }
